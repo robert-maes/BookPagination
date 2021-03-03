@@ -234,5 +234,5 @@ const createPaginationList = () => {
   );
 };
 
-// initialize at page 0 (1)
+// initialize at page 0 (1 for the user)
 changePage(0);
